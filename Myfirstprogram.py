@@ -2,7 +2,7 @@ print("Hello Aditi!")
 print("How are you?")
 #exit()
 
-i=5
+i=1
 if i > 2:
 
  print("Five is greater than three!")
